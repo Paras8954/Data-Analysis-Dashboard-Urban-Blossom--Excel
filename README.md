@@ -21,7 +21,7 @@ The Urban Blossom Store wants to create an annual sales report for 2024. So that
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
--<a href="https://github.com/Paras8954/Data-Analysis-Dashboard-Urban-Blossom--Excel/blob/main/Urban%20Blossom%20Sales%20Dashboard.png">View Dashboard <a/>
+- <a href="https://github.com/Paras8954/Data-Analysis-Dashboard-Urban-Blossom--Excel/blob/main/Urban%20Blossom%20Sales%20Dashboard.png">View Dashboard <a/>
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~69%).
