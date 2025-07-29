@@ -14,4 +14,4 @@ The Urban Blossom Store wants to create an annual sales report for 2024. So that
 - Which Selling platform is contributing maximum to the sales?
 - Highest selling category?
 
-
+- Dashboard Interaction <a href="https://github.com/Paras8954/Data-Analysis-Dashboard-Urban-Blossom--Excel/blob/main/Urban%20Blossom%20Sales%20Dashboard.png">View Dashboard</a>
