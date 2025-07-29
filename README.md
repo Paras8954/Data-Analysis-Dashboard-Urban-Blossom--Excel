@@ -14,6 +14,8 @@ The Urban Blossom Store wants to create an annual sales report for 2024. So that
 - Which Selling platform is contributing maximum to the sales?
 - Highest selling category?
 
+  - <a href="https://github.com/Paras8954/Data-Analysis-Dashboard-Urban-Blossom--Excel/blob/main/Urban%20Blossom%20Sales%20Dashboard.png">View Dashboard <a/>
+
 ## Process
 - Verify data for any missing values and anomalies and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
@@ -21,7 +23,7 @@ The Urban Blossom Store wants to create an annual sales report for 2024. So that
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-- <a href="https://github.com/Paras8954/Data-Analysis-Dashboard-Urban-Blossom--Excel/blob/main/Urban%20Blossom%20Sales%20Dashboard.png">View Dashboard <a/>
+<img width="1811" height="662" alt="Urban Blossom Sales Dashboard" src="https://github.com/user-attachments/assets/6b8f3c80-6598-4a3d-b757-5d9f23486198" />
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~69%).
