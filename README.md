@@ -34,3 +34,6 @@ The Urban Blossom Store wants to create an annual sales report for 2024. So that
 ## Final Conclusion:
 To improve the sales of Urban Blossom Store, a strategic marketing plan focused on women aged 25-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
+## Acknowledgements
+This is a self-initiated project to demonstrate skills in data analytics/ Excel-dashboard development using publicly available or mock data.
+
